@@ -1,0 +1,5 @@
+ErrorDocument 400 /error/bad-request.html
+ErrorDocument 401 /error/auth-reqd.html
+ErrorDocument 403 /error/forbid.html
+ErrorDocument 404 /error/not-found.html
+ErrorDocument 500 /error/server-err.html
